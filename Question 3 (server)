@@ -5,7 +5,7 @@ def bar_to_atm(pressure_bar):
     return pressure_bar * 0.986923
 
 # Server configuration
-SERVER_IP = "192.16.88.129"
+SERVER_IP = "0.0.0.0"
 SERVER_PORT = 8443
 
 
